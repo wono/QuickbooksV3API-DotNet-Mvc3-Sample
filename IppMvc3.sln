@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IppMvc3", "IppMvc3\IppMvc3.csproj", "{FEAAB614-B46F-48B8-9BD1-81A257A32DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAAB614-B46F-48B8-9BD1-81A257A32DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAAB614-B46F-48B8-9BD1-81A257A32DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAAB614-B46F-48B8-9BD1-81A257A32DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAAB614-B46F-48B8-9BD1-81A257A32DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

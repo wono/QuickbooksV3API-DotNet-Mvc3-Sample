@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This xml file persists the Oauth Access token so that user doen't need to go through the approval process all over again.-->
+<oauthtokenstorage>
+  <record usermailid="" encryptedaccesskey="" encryptedaccesskeysecret="" realmid="" dataSource="">
+  </record>
+  <record usermailid="peter_lavelle@intuit.com" encryptedaccesskey="k5oWT9Q9GRFeEe8EgQTguOzXzf0bR9uixunLrEPuWdBY8VGQM4DrmUS78gZq7lJBrmViDWkQjHbD9IneaJsA4uph0PUoG0qIMMepkc/D78nDLXrNK3Owwfq5UIaIWohoYsXJWXLeOUY=" encryptedaccesskeysecret="qVlygAOGJLk0UYvhVb8cB9jpF22NBSVoCW6q8YPXBUbs75X1YxwXFox4PykgT2goMCEI5TlJmvFQgHrb8Vph8afhMAxzaqKStvhQkWtuKZoG3UgCsg66dg==" realmid="655168710" dataSource="QBO" />
+</oauthtokenstorage>
